@@ -8,11 +8,7 @@ http://schedulear.com/
 Install dependencies:
 
 ```bash
-
-# yarn
 yarn
-
-
 ```
 
 ## Development Server
@@ -20,31 +16,25 @@ yarn
 Start the development server on `http://localhost:3000`:
 
 ```bash
-
-# yarn
 yarn dev
-
-
 ```
 
 ## Production
 
-Build the application for production:
+Build the application:
 
 ```bash
-
-# yarn
 yarn generate
+```
 
+Deploy the application:
 
+```bash
+yarn deploy
 ```
 
 Locally preview production build:
 
 ```bash
-
-# yarn
 yarn preview
-
-
 ```
