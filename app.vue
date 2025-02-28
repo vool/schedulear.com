@@ -1,30 +1,22 @@
 <template>
+<div class="min-h-screen grid grid-flow-row md:grid-flow-col bg-lusta">
 
-
-
-<div class="min-h-screen flex space-y-1 w-full fixed bg-lusta ">
-
-
-  <div class="flex-1 p-2 relative bg-shaft text-lusta">
+  <div class="flex p-2 relative bg-shaft text-lusta">
     <div class="p-8  ">
       <ImgsLogo />
     </div>
-
-
-    <div class="p-8 bottom-0 float-right absolute bottom-0 right-0 ">
+    <div class="p-8 float-right absolute bottom-0 right-0 ">
       <ImgsName />
     </div>
-
   </div>
+  <div class="flex relative">
 
-  <div class="flex-1 relative">
-
-    <div class="p-8  float-right ">
-      ...organise the world for the ear
+    <div class="p-8 hidden md:block absolute top-0 right-0  ">
+      ...organising the world for the ear
     </div>
 
 
-    <div class="p-8 bottom-0 float-right absolute bottom-0 right-0  ">
+    <div class="p-8 bottom-0 absolute right-0  ">
 
       <ul class="flex justify-center mt-5 space-x-5">
         <li>
@@ -51,6 +43,5 @@
 
     </div>
   </div>
-
 </div>
 </template>
