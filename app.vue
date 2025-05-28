@@ -1,3 +1,13 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'schedulear',
+  ogTitle: 'schedulear',
+  description: '...organising the world for the ear',
+  ogDescription: '...organising the world for the ear',
+  ogImage: 'https://schedulear.com/og_card.png',
+  twitterCard: 'summary_large_image',
+})
+</script>
 <template>
 <div class="min-h-screen grid grid-flow-row md:grid-flow-col bg-lusta">
 
