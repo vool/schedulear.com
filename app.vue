@@ -28,25 +28,25 @@ const sections = [
     label: 'We think',
     title: "Listening to great radio shouldn't be hard.",
     description:
-        "The world is full of incredible radio, but discovering the right show at the right time is harder than it should be. With schedules scattered across websites and apps, confusing time zones, and no simple way to see what's live, too much great radio goes unheard."
+        "The world is full of incredible radio, but discovering the right show and remembering when it's live is harder than it should be. With schedules scattered across websites and apps, confusing time zones, and no simple way to see what's live, too much great radio goes unheard."
   },
   {
     label: 'The problem',
     title: "Radio isn't broken because of the content, it's broken because of discovery.",
     description:
-        "Radio has always had incredible content, we’re just building the discovery layer it's been missing. A platform connecting stations, presenters, DJs, and listeners to make live audio easier to find, follow, and experience."
+        "Radio has always had incredible content, we’re building the discovery layer it's been missing. A platform connecting stations, presenters, DJs, and listeners to make live audio easier to find, follow, and experience."
   },
   {
-    label: 'Built for',
-    title: "Those who broadcast, and those who listen.",
+    label: 'Building',
+    title: "For those who broadcast, and those who listen.",
     description:
-        "A platform that helps stations, presenters, DJs, podcasters, and creators reach the right audience, while giving listeners a better way to discover, follow, and engage with the voices and shows they love."
+        "We\'re building a platform that helps stations, presenters, DJs, podcasters, and creators reach the right audience, while giving listeners a better way to discover, follow, and engage with the voices and shows they love."
   },
   {
     label: 'Join us',
     title: "Stay tuned.",
     description:
-        "Join the waitlist and be the first to know when early access opens."
+        "It's called schedulear, join the waitlist and be the first to know when early access opens."
   }
 ]
 
