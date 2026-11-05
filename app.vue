@@ -147,14 +147,14 @@ const sections = [
                 bluesky
               </a>
 
-              <span class="text-zinc-300">/</span>
+<!--              <span class="text-zinc-300">/</span>-->
 
-              <a
-                  class="text-zinc-500 transition hover:text-black"
-                  href="https://www.instagram.com/schedulear_"
-              >
-                instagram
-              </a>
+<!--              <a-->
+<!--                  class="text-zinc-500 transition hover:text-black"-->
+<!--                  href="https://www.instagram.com/schedulear_"-->
+<!--              >-->
+<!--                instagram-->
+<!--              </a>-->
             </div>
           </div>
         </section>
